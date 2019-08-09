@@ -19,6 +19,11 @@ const users = [
       maxWidth: 50,
     },
   },
+   {
+    caption: "B'bus",
+    image: '/formik/img/logos/b.png',
+    infoLink: 'https://we.meet.com/',
+  },
   {
     caption: 'Airbnb',
     image: '/formik/img/logos/airbnb.svg',
